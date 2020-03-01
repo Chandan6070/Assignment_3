@@ -1,0 +1,41 @@
+1: CHANDAN KUMAR (1KS18CS016)
+2: GUNAL BINANI (1KS18CS025)
+3: BHAGWAT GOUTAM (1KS18CS010)
+
+
+_____________________________________________
+
+Example : Sample input - Set a : {1, 1, 2, 3, 4, 4, 5} 
+			 Set b : {1, 2, 2, 3, 5, 6, 6}
+	  Sample output -Union : {1, 2, 3, 4, 5, 6} 
+			 Intersection : {1, 2, 3, 5}
+			 Difference : {4}
+
+_______________________________________________
+
+Chandan Kumar - Came up with the idea of using hashset 
+		instead of arrays. Coded the program in java.
+
+Bhagwat Goutam - Helped in debugging the errors in the
+		 code. Recommended a better softward to code
+		 in. 
+
+Gunal Binani - Also helped in debugging and checked the 
+	       input and output of the program by using 
+	       testcases.
+
+________________________________________________
+
+Challenges faced were mainly how to operate on hashsets.
+And as none of us have used java before, so writing the
+code in java was challenging too.
+
+How we overcame those challenges - We used stack
+overflow for accessing the java information to code like
+syntax and use of functions. For I/O testing, we made
+a few testcases giving random inputs which helped us 
+better to decode the program.
+
+_________________________________________________
+
+	 
